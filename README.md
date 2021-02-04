@@ -1,8 +1,7 @@
 # Encourage-Bot
 My first try to develop bots
 
-I followed this Tutorial
-https://www.youtube.com/watch?v=SPTfmiYiuok&t=158s&ab_channel=freeCodeCamp.org
+I followed this [Tutorial](https://www.youtube.com/watch?v=SPTfmiYiuok&t=158s&ab_channel=freeCodeCamp.org)
 
 # INFO
 - I used Discord.py to manipulate the discord api
